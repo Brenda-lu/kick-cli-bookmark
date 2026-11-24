@@ -1,0 +1,66 @@
+{
+	"官网": {
+		"node": {
+			"url": "https://www.nodejs.org",
+			"description": "Node.js 官网"
+		},
+		"mysql2": {
+			"url": "https://sidorares.github.io/node-mysql2/zh-CN/docs",
+			"description": "mysql2 中文文档"
+		},
+		"ts": {
+			"url": "https://www.typescriptlang.org",
+			"description": "TypeScript 官网"
+		},
+		"github": {
+			"url": "https://github.com",
+			"description": "GitHub 官网"
+		},
+		"doubao": {
+			"url": "https://www.doubao.com",
+			"description": "豆包 官网"
+		}
+	},
+	"插件": {
+		"jwt": {
+			"url": "https://www.npmjs.com/package/jsonwebtoken",
+			"description": "用于生成和校验JWT令牌，常用于后端登录鉴权"
+		},
+		"download-git-repo": {
+			"url": "https://www.npmjs.com/package/download-git-repo",
+			"description": "用于命令行下载Git仓库代码，常用来做脚手架拉取模板项目"
+		},
+		"inquirer": {
+			"url": "https://www.npmjs.com/package/inquirer",
+			"description": "Node命令行交互工具，脚手架项目用来收集用户配置选项"
+		},
+		"npmlog": {
+			"url": "https://www.npmjs.com/package/npmlog",
+			"description": "npm官方日志模块，用于脚手架、命令行工具统一管理日志打印"
+		},
+		"semver": {
+			"url": "https://www.npmjs.com/package/semver",
+			"description": "用于比较和验证版本号，常用来校验NodeJS版本是否符合要求"
+		},
+		"superagent": {
+			"url": "https://www.npmjs.com/package/superagent",
+			"description": "轻量HTTP请求库，支持Node.js和浏览器，常用于接口调用、爬虫"
+		},
+		"cheerio": {
+			"url": "https://www.npmjs.com/package/cheerio",
+			"description": "服务端HTML解析库，jQuery风格选择器，多用于爬虫提取网页内容"
+		},
+		"concurrently": {
+			"url": "https://www.npmjs.com/package/concurrently",
+			"description": "用于并行执行多条命令，跨平台，常用于同时启动前端和后端开发服务"
+		},
+		"nodemon": {
+			"url": "https://www.npmjs.com/package/nodemon",
+			"description": "Node.js热重启工具，监测文件变更自动重启服务，开发阶段使用"
+		},
+		"dotenv": {
+			"url": "https://www.npmjs.com/package/dotenv",
+			"description": "加载.env环境变量文件到process.env，用来管理项目密钥、配置信息"
+		}
+	}
+}
