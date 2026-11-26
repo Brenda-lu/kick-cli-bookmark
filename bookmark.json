@@ -65,6 +65,10 @@
 		"dotenv": {
 			"url": "https://www.npmjs.com/package/dotenv",
 			"description": "加载.env环境变量文件到process.env，用来管理项目密钥、配置信息"
+		},
+		"jimp": {
+			"url": "https://www.npmjs.com/package/jimp",
+			"description": "纯JS图像处理库，无原生依赖，支持图片缩放、裁剪、滤镜，常用于Node处理图片、生成验证码"
 		}
 	}
 }
