@@ -69,6 +69,18 @@
 		"jimp": {
 			"url": "https://www.npmjs.com/package/jimp",
 			"description": "纯JS图像处理库，无原生依赖，支持图片缩放、裁剪、滤镜，常用于Node处理图片、生成验证码"
+		},
+		"express": {
+			"url": "https://github.com/expressjs/express",
+			"description": "Node.js轻量Web服务框架，快速搭建后端接口、路由服务，是主流后端开发框架"
+		},
+		"body-parser": {
+			"url": "https://github.com/expressjs/body-parser",
+			"description": "Express请求体解析中间件，解析json、表单数据，挂载到req.body，用于接收前端提交参数"
+		},
+		"koa": {
+			"url": "https://www.npmjs.com/package/koa",
+			"description": "基于Node.js的轻量Web框架，使用async/await，洋葱模型中间件，简洁优雅的后端服务框架"
 		}
 	}
 }
